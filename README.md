@@ -4,7 +4,7 @@
 <a href="mailto:pdbawilliam@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
-I'm William Amorim.
+I'm William Amorim.<br>
 I'm a full stack developer 💻 ✨
 
 <ul>
