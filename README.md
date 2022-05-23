@@ -8,7 +8,7 @@ I'm William Amorim.<br>
 I'm a full stack developer 💻 ✨
 
 <ul>
-  <li>🚀 ┇I’m currently working at Rocketseat </li>
+  <li>🚀 ┇I’m currently working at Bossabox </li>
   <li>💜 ┇React Native
   <li>🥋 ┇ReactJS,  React Native, Typescript, NodeJS</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
